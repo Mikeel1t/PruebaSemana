@@ -1,4 +1,7 @@
 # PruebaSemana
+
+Use en la terminal .../Frontend npm install o npnm install y npnm dev
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
